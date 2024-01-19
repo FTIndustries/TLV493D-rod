@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TLV493D-rod")(type "KiCad")(uri "${KIPRJMOD}/lib/TLV493D-rod.pretty")(options "")(descr ""))
+)
